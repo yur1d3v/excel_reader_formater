@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Excel files (optional, if you don't want to upload data)
+*.xlsx
+
+# VS Code settings (optional)
+.vscode/
